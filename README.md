@@ -2,7 +2,7 @@
 <h3 align="center">I am a Front-End enthusiast, passionate about technologies, musician , and love to learn new things.</h3>
 
 
-📫 How to reach me: [LinkedIn](samuel-macedo-12a420a8), [RocketSeat](https://app.rocketseat.com.br/me/samuel-macedo)
+📫 How to reach me: [LinkedIn](samuel-macedo), [RocketSeat](https://app.rocketseat.com.br/me/samuel-macedo)
 
 #### 💻 Technologies I am currently learning
 
@@ -21,10 +21,10 @@
  #### ⭐  Statistics 
 
  <p align="center"> 
-   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Samuca-sys&count_private=true&show_icons=true&theme=buefy" alt="CarlosEduAC" width="420"/> -->
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Samuca-sys&count_private=true&show_icons=true&theme=buefy" alt="Samuel Macedo" width="420"/> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuca-sys&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="Samuca-sys" height="165" />
  </p>
  
 <!--
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Samuca-sys" alt="CarlosEduAC" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Samuca-sys" alt="Samuel Macedo" /> </p>
 -->
