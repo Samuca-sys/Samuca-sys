@@ -2,7 +2,7 @@
 <h3 align="center">I am a Front-End enthusiast, passionate about technologies, musician , and love to learn new things.</h3>
 
 
-📫 How to reach me: [LinkedIn](samuel-macedo), [RocketSeat](https://app.rocketseat.com.br/me/samuel-macedo)
+📫 How to reach me: [LinkedIn](http://linkedin.com/in/samuel-macedo), [RocketSeat](https://app.rocketseat.com.br/me/samuel-macedo)
 
 #### 💻 Technologies I am currently learning
 
